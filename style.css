@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+h1{
+    color: antiquewhite;
+    font-size: 50px;
+    font-family: cursive;
+}
+#a{
+    background-color: forestgreen;
+}
+#g{
+    background-color: forestgreen;
+}
+#c{
+    background-color: forestgreen;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transition: scale(0.9);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
